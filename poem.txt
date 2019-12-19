@@ -1,0 +1,43 @@
+Dear Dani,
+
+Santa wishes you a happy Hanukkah,
+And sings you this poem at the sound of a harmonikkah,
+
+(Santa singing)
+
+“Ho ho hoo,
+
+Marry Xmas dear Danielle!
+You have been a good girl this year,
+I heard that on the back of a flying gazelle,
+You crossed the Dutch frontier!
+
+The list of your good deeds is impressive,
+It made me oh so proud.
+I’m not being excessive,
+When I say out loud,
+
+Since you joined easee,
+You made the R&D thrive,
+The vibe in the office is breezy,
+Much like a cool beehive 
+
+The backlog is clean, and the stand-ups go faster,
+Of the R&D team you could be the scrum master!
+“
+
+PS: Santa told me he had a new dream,
+He wanted to develop software and join the easee team.
+No one replied to his job application,
+So, out of anger and frustration,
+He hid your present somewhere in the office room,
+And, to get out of his gloom,
+he thought it would be a funny story,
+To hide hints in a xmas git repository.
+First hint:
+
+git clone https://github.com/dev-santa/merry-xmas.git
+
+
+Good Luck!
+
